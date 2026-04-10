@@ -1,2 +1,5 @@
-pre-processing/games.json
+data/
 *.json
+__pycache__/
+.ipynb_checkpoints/
+venv/
